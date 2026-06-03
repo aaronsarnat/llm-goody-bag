@@ -8,4 +8,5 @@ This repository is open source and released as-is under the [GPL 3.0 license](LI
 - [De-slop Text Transform](prompts/de-slop-text-transform.md)
 
 ### Documentation
+- [Frontier Model Roles](docs/frontier-roles.md)
 - [True Cost of using LLMs](docs/true-cost.md)
