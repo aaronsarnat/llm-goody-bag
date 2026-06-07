@@ -16,7 +16,7 @@
 
 ---
 
-## TL;DR
+## Overview
 
 1. **A single text prompt is tiny.** A median text prompt costs roughly **0.3 watt-hours, a fraction of a gram of CO₂, and well under a milliliter of water.** Independent estimates converge: Google measured 0.24 Wh / 0.03 gCO₂e / 0.26 mL for a median Gemini prompt; OpenAI's Sam Altman cited ~0.34 Wh; Epoch AI estimates ~0.3 Wh for a standard GPT-4o query.
 2. **What you do with the model is the whole story.** A reasoning ("thinking") prompt costs **10–100× a standard one**; a long-context prompt **8–130×**; one 5-second AI video costs **~700× a single image and thousands of times a text prompt.** Your footprint is set by *task choice and volume*, not by which subscription you hold.
@@ -202,7 +202,7 @@ Different models fail differently. One will derail, another will fabricate citat
 
 ---
 
-## Detailed source list
+## Sources
 
 **Per-query / per-token energy, water, and carbon (inference)**
 - Google Cloud, "Measuring the environmental impact of AI inference." https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference/
